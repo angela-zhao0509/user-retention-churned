@@ -4,8 +4,8 @@
 import numpy as np
 import pandas as pd
 
-equity = pd.read_csv('equity_value_data.csv')
-features = pd.read_csv('features_data.csv')
+equity = pd.read_csv('/datasets/equity_value_data.csv')
+features = pd.read_csv('/datasets/features_data.csv')
 
 
 # ## Problem (a)
