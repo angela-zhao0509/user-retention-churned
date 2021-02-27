@@ -1,3 +1,5 @@
+## User Retention Exploration
+
 Modeling:
 Please use python for answering this question:<br>
 In order to improve user retention and lower churn, the growth team at Robinhood is interested in understanding why and which users withdraw money from their Robinhood account.<br>
